@@ -1,0 +1,24 @@
+{
+  "title": "Hello World",
+  "description": "Test that we can run a Hello World",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "c#"
+  }
+}
